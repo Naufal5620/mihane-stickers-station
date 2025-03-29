@@ -42,12 +42,15 @@ export default function Picker({ setCharacter }) {
         c.name.toLowerCase().includes(s) ||
         c.character.toLowerCase().includes(s)
       )
-      .map((c) => (
-        <ImageListItem
+      .map((c) => {
+
+        const newIndex = characters.findIndex((char) => char.id === c.id);
+
+        return (<ImageListItem
           key={c.id}
           onClick={() => {
             handleClose();
-            setCharacter(c);
+            setCharacter(newIndex);
           }}
           sx={{
             cursor: "pointer",
@@ -66,7 +69,8 @@ export default function Picker({ setCharacter }) {
             loading="lazy"
           />
         </ImageListItem>
-      ));
+      )
+    });
   }, [search, setCharacter, filterTag]);
 
   return (
