@@ -39,6 +39,9 @@ export default function Info({ open, handleClose }) {
             </Typography>
             <List>
               <ListItem>
+                <SmallListItemText primary="v0.0.3 - Update Wuthering Waves to Vol 1." />
+              </ListItem>
+              <ListItem>
                 <SmallListItemText primary="v0.0.3 - Update Genshin Impact - Paimon's Paintings to Set 35." />
               </ListItem>
               <ListItem>
