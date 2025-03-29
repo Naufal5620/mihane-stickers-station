@@ -42,12 +42,12 @@ export default function Picker({ setCharacter }) {
         c.name.toLowerCase().includes(s) ||
         c.character.toLowerCase().includes(s)
       )
-      .map((c, index) => (
+      .map((c) => (
         <ImageListItem
-          key={index}
+          key={c.id}
           onClick={() => {
             handleClose();
-            setCharacter(index);
+            setCharacter(c);
           }}
           sx={{
             cursor: "pointer",
