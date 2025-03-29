@@ -4,6 +4,8 @@ import {
   Popover,
   Button,
   TextField,
+  ToggleButton,
+  ToggleButtonGroup,
 } from "@mui/material";
 import { useState, useMemo } from "react";
 import characters from "../characters.json";
@@ -11,6 +13,7 @@ import characters from "../characters.json";
 export default function Picker({ setCharacter }) {
   const [anchorEl, setAnchorEl] = useState(null);
   const [search, setSearch] = useState("");
+  const [filterTag, setFilterTag] = useState("Genshin Impact");
 
   const handleClick = (event) => {
     setAnchorEl(event.currentTarget);
@@ -23,45 +26,48 @@ export default function Picker({ setCharacter }) {
   const open = Boolean(anchorEl);
   const id = open ? "picker" : undefined;
 
-  // Memoize the filtered image list items to avoid recomputing them
-  // at every render
+  const handleFilterChange = (event, newTag) => {
+    if (newTag !== null) {
+      setFilterTag(newTag);
+    }
+  };
+
+  // Memoized filtering
   const memoizedImageListItems = useMemo(() => {
     const s = search.toLowerCase();
-    return characters.map((c, index) => {
-      if (
+    return characters
+      .filter((c) => c.tag === filterTag) // Apply tag filter
+      .filter((c) =>
         s === c.id ||
         c.name.toLowerCase().includes(s) ||
         c.character.toLowerCase().includes(s)
-      ) {
-        return (
-          <ImageListItem
-            key={index}
-            onClick={() => {
-              handleClose();
-              setCharacter(index);
-            }}
-            sx={{
-              cursor: "pointer",
-              "&:hover": {
-                opacity: 0.5,
-              },
-              "&:active": {
-                opacity: 0.8,
-              },
-            }}
-          >
-            <img
-              src={`img/${c.img}`}
-              srcSet={`img/${c.img}`}
-              alt={c.name}
-              loading="lazy"
-            />
-          </ImageListItem>
-        );
-      }
-      return null;
-    });
-  }, [search, setCharacter]);
+      )
+      .map((c, index) => (
+        <ImageListItem
+          key={index}
+          onClick={() => {
+            handleClose();
+            setCharacter(index);
+          }}
+          sx={{
+            cursor: "pointer",
+            "&:hover": {
+              opacity: 0.5,
+            },
+            "&:active": {
+              opacity: 0.8,
+            },
+          }}
+        >
+          <img
+            src={`img/${c.img}`}
+            srcSet={`img/${c.img}`}
+            alt={c.name}
+            loading="lazy"
+          />
+        </ImageListItem>
+      ));
+  }, [search, setCharacter, filterTag]);
 
   return (
     <div>
@@ -83,14 +89,51 @@ export default function Picker({ setCharacter }) {
           horizontal: "left",
         }}
         className="modal"
+        sx={{ maxWidth: 560 }}
       >
+        {/* Scrollable Tag Selection */}
+        <div
+          style={{
+            display: "flex",
+            overflowX: "auto",
+            overflowY: "hidden",
+            whiteSpace: "nowrap",
+            padding: "10px",
+            gap: "10px",
+            scrollbarWidth: "none", // Hide scrollbar for Firefox
+            msOverflowStyle: "none", // Hide scrollbar for IE/Edge
+          }}
+          onWheel={(e) => {
+            //e.preventDefault(); // Prevent unwanted default scroll behavior
+            e.currentTarget.scrollBy({
+              left: e.deltaY * 2, // Adjust sensitivity (higher = faster)
+              behavior: "smooth", // Enable smooth scrolling effect
+            });
+          }}
+        >
+          <ToggleButtonGroup
+            value={filterTag}
+            exclusive
+            onChange={handleFilterChange}
+            aria-label="Game Filter"
+            sx={{
+              display: "flex",
+              flexWrap: "nowrap", // Ensure buttons are in a single row
+            }}
+          >
+            <ToggleButton value="Genshin Impact">Genshin Impact</ToggleButton>
+            <ToggleButton value="Honkai: Star Rail">Honkai: Star Rail</ToggleButton>
+            <ToggleButton value="Zenless Zone Zero">Zenless Zone Zero</ToggleButton>
+            <ToggleButton value="Wuthering Waves">Wuthering Waves</ToggleButton>
+            <ToggleButton value="Others">Others</ToggleButton>
+          </ToggleButtonGroup>
+        </div>
         <div className="picker-search">
           <TextField
             label="Search character"
             size="small"
             color="secondary"
             value={search}
-            multiline={true}
             fullWidth
             onChange={(e) => setSearch(e.target.value)}
           />
