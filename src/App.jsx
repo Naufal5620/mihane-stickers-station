@@ -33,7 +33,7 @@ function App() {
     setInfoOpen(false);
   };
 
-  const [character, setCharacter] = useState(117);
+  const [character, setCharacter] = useState(288);
   const [text, setText] = useState(characters[character].defaultText.text);
   const [position, setPosition] = useState({
     x: characters[character].defaultText.x,

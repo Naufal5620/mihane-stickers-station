@@ -39,6 +39,9 @@ export default function Info({ open, handleClose }) {
             </Typography>
             <List>
               <ListItem>
+                <SmallListItemText primary="v0.0.3 - Update Genshin Impact - Paimon's Paintings to Set 35." />
+              </ListItem>
+              <ListItem>
                 <SmallListItemText primary="v0.0.2 - Update Genshin Impact - Paimon's Paintings to Set 14." />
               </ListItem>
               <ListItem>
@@ -50,7 +53,7 @@ export default function Info({ open, handleClose }) {
 
             {/* GitHub Link */}
             <Typography variant="h6" component="h3">
-              A miHoYo, Kuro games sticker maker from here:
+              GitHub Link
             </Typography>
             <List>
               <ListItem

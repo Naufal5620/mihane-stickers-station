@@ -14,9 +14,9 @@ game_tags = {
 }
 
 # Default properties
-default_color = "#FB8AAC"
+default_color = "#F09A04"
 default_text = {
-    "text": "something",
+    "text": "MSS",
     "x": 148,
     "y": 58,
     "r": -2,
