@@ -4,7 +4,7 @@
         "name": "aether1",
         "character": "aether",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/aether/aether1.png",
+        "img": "Genshin_Impact/aether/aether1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -19,7 +19,7 @@
         "name": "aether2",
         "character": "aether",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/aether/aether2.png",
+        "img": "Genshin_Impact/aether/aether2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -34,7 +34,7 @@
         "name": "albedo1",
         "character": "albedo",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/albedo/albedo1.png",
+        "img": "Genshin_Impact/albedo/albedo1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -49,7 +49,7 @@
         "name": "albedo2",
         "character": "albedo",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/albedo/albedo2.png",
+        "img": "Genshin_Impact/albedo/albedo2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -64,7 +64,7 @@
         "name": "albedo3",
         "character": "albedo",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/albedo/albedo3.png",
+        "img": "Genshin_Impact/albedo/albedo3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -79,7 +79,7 @@
         "name": "albedo4",
         "character": "albedo",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/albedo/albedo4.png",
+        "img": "Genshin_Impact/albedo/albedo4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -94,7 +94,7 @@
         "name": "albedo5",
         "character": "albedo",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/albedo/albedo5.png",
+        "img": "Genshin_Impact/albedo/albedo5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -109,7 +109,7 @@
         "name": "albedo6",
         "character": "albedo",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/albedo/albedo6.png",
+        "img": "Genshin_Impact/albedo/albedo6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -124,7 +124,7 @@
         "name": "albedo7",
         "character": "albedo",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/albedo/albedo7.png",
+        "img": "Genshin_Impact/albedo/albedo7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -139,7 +139,7 @@
         "name": "amber1",
         "character": "amber",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/amber/amber1.png",
+        "img": "Genshin_Impact/amber/amber1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -154,7 +154,7 @@
         "name": "amber2",
         "character": "amber",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/amber/amber2.png",
+        "img": "Genshin_Impact/amber/amber2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -169,7 +169,7 @@
         "name": "amber3",
         "character": "amber",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/amber/amber3.png",
+        "img": "Genshin_Impact/amber/amber3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -184,7 +184,7 @@
         "name": "ayaka1",
         "character": "ayaka",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayaka/ayaka1.png",
+        "img": "Genshin_Impact/ayaka/ayaka1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -199,7 +199,7 @@
         "name": "ayaka2",
         "character": "ayaka",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayaka/ayaka2.png",
+        "img": "Genshin_Impact/ayaka/ayaka2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -214,7 +214,7 @@
         "name": "ayaka3",
         "character": "ayaka",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayaka/ayaka3.png",
+        "img": "Genshin_Impact/ayaka/ayaka3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -229,7 +229,7 @@
         "name": "ayaka4",
         "character": "ayaka",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayaka/ayaka4.png",
+        "img": "Genshin_Impact/ayaka/ayaka4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -244,7 +244,7 @@
         "name": "ayaka5",
         "character": "ayaka",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayaka/ayaka5.png",
+        "img": "Genshin_Impact/ayaka/ayaka5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -259,7 +259,7 @@
         "name": "ayaka6",
         "character": "ayaka",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayaka/ayaka6.png",
+        "img": "Genshin_Impact/ayaka/ayaka6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -274,7 +274,7 @@
         "name": "ayaka7",
         "character": "ayaka",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayaka/ayaka7.png",
+        "img": "Genshin_Impact/ayaka/ayaka7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -289,7 +289,7 @@
         "name": "ayaka8",
         "character": "ayaka",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayaka/ayaka8.png",
+        "img": "Genshin_Impact/ayaka/ayaka8.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -304,7 +304,7 @@
         "name": "ayato1",
         "character": "ayato",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayato/ayato1.png",
+        "img": "Genshin_Impact/ayato/ayato1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -319,7 +319,7 @@
         "name": "ayato2",
         "character": "ayato",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayato/ayato2.png",
+        "img": "Genshin_Impact/ayato/ayato2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -334,7 +334,7 @@
         "name": "ayato3",
         "character": "ayato",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayato/ayato3.png",
+        "img": "Genshin_Impact/ayato/ayato3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -349,7 +349,7 @@
         "name": "ayato4",
         "character": "ayato",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ayato/ayato4.png",
+        "img": "Genshin_Impact/ayato/ayato4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -364,7 +364,7 @@
         "name": "barbara1",
         "character": "barbara",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/barbara/barbara1.png",
+        "img": "Genshin_Impact/barbara/barbara1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -379,7 +379,7 @@
         "name": "barbara2",
         "character": "barbara",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/barbara/barbara2.png",
+        "img": "Genshin_Impact/barbara/barbara2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -394,7 +394,7 @@
         "name": "barbara3",
         "character": "barbara",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/barbara/barbara3.png",
+        "img": "Genshin_Impact/barbara/barbara3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -409,7 +409,7 @@
         "name": "barbara4",
         "character": "barbara",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/barbara/barbara4.png",
+        "img": "Genshin_Impact/barbara/barbara4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -424,7 +424,7 @@
         "name": "beidou1",
         "character": "beidou",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/beidou/beidou1.png",
+        "img": "Genshin_Impact/beidou/beidou1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -439,7 +439,7 @@
         "name": "beidou2",
         "character": "beidou",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/beidou/beidou2.png",
+        "img": "Genshin_Impact/beidou/beidou2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -454,7 +454,7 @@
         "name": "childe1",
         "character": "childe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/childe/childe1.png",
+        "img": "Genshin_Impact/childe/childe1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -469,7 +469,7 @@
         "name": "childe2",
         "character": "childe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/childe/childe2.png",
+        "img": "Genshin_Impact/childe/childe2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -484,7 +484,7 @@
         "name": "childe3",
         "character": "childe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/childe/childe3.png",
+        "img": "Genshin_Impact/childe/childe3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -499,7 +499,7 @@
         "name": "childe4",
         "character": "childe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/childe/childe4.png",
+        "img": "Genshin_Impact/childe/childe4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -514,7 +514,7 @@
         "name": "childe5",
         "character": "childe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/childe/childe5.png",
+        "img": "Genshin_Impact/childe/childe5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -529,7 +529,7 @@
         "name": "childe6",
         "character": "childe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/childe/childe6.png",
+        "img": "Genshin_Impact/childe/childe6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -544,7 +544,7 @@
         "name": "childe7",
         "character": "childe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/childe/childe7.png",
+        "img": "Genshin_Impact/childe/childe7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -559,7 +559,7 @@
         "name": "childe8",
         "character": "childe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/childe/childe8.png",
+        "img": "Genshin_Impact/childe/childe8.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -574,7 +574,7 @@
         "name": "diluc1",
         "character": "diluc",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/diluc/diluc1.png",
+        "img": "Genshin_Impact/diluc/diluc1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -589,7 +589,7 @@
         "name": "diona1",
         "character": "diona",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/diona/diona1.png",
+        "img": "Genshin_Impact/diona/diona1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -604,7 +604,7 @@
         "name": "diona2",
         "character": "diona",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/diona/diona2.png",
+        "img": "Genshin_Impact/diona/diona2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -619,7 +619,7 @@
         "name": "diona3",
         "character": "diona",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/diona/diona3.png",
+        "img": "Genshin_Impact/diona/diona3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -634,7 +634,7 @@
         "name": "diona4",
         "character": "diona",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/diona/diona4.png",
+        "img": "Genshin_Impact/diona/diona4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -649,7 +649,7 @@
         "name": "dog1",
         "character": "dog",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/dog/dog1.png",
+        "img": "Genshin_Impact/dog/dog1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -664,7 +664,7 @@
         "name": "dog2",
         "character": "dog",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/dog/dog2.png",
+        "img": "Genshin_Impact/dog/dog2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -679,7 +679,7 @@
         "name": "eula1",
         "character": "eula",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/eula/eula1.png",
+        "img": "Genshin_Impact/eula/eula1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -694,7 +694,7 @@
         "name": "eula2",
         "character": "eula",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/eula/eula2.png",
+        "img": "Genshin_Impact/eula/eula2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -709,7 +709,7 @@
         "name": "eula3",
         "character": "eula",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/eula/eula3.png",
+        "img": "Genshin_Impact/eula/eula3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -724,7 +724,7 @@
         "name": "eula4",
         "character": "eula",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/eula/eula4.png",
+        "img": "Genshin_Impact/eula/eula4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -739,7 +739,7 @@
         "name": "eula5",
         "character": "eula",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/eula/eula5.png",
+        "img": "Genshin_Impact/eula/eula5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -754,7 +754,7 @@
         "name": "eula6",
         "character": "eula",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/eula/eula6.png",
+        "img": "Genshin_Impact/eula/eula6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -769,7 +769,7 @@
         "name": "eula7",
         "character": "eula",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/eula/eula7.png",
+        "img": "Genshin_Impact/eula/eula7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -784,7 +784,7 @@
         "name": "fischl1",
         "character": "fischl",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/fischl/fischl1.png",
+        "img": "Genshin_Impact/fischl/fischl1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -799,7 +799,7 @@
         "name": "fischl2",
         "character": "fischl",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/fischl/fischl2.png",
+        "img": "Genshin_Impact/fischl/fischl2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -814,7 +814,7 @@
         "name": "ganyu1",
         "character": "ganyu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ganyu/ganyu1.png",
+        "img": "Genshin_Impact/ganyu/ganyu1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -829,7 +829,7 @@
         "name": "ganyu2",
         "character": "ganyu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ganyu/ganyu2.png",
+        "img": "Genshin_Impact/ganyu/ganyu2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -844,7 +844,7 @@
         "name": "ganyu3",
         "character": "ganyu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ganyu/ganyu3.png",
+        "img": "Genshin_Impact/ganyu/ganyu3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -859,7 +859,7 @@
         "name": "ganyu4",
         "character": "ganyu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ganyu/ganyu4.png",
+        "img": "Genshin_Impact/ganyu/ganyu4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -874,7 +874,7 @@
         "name": "ganyu5",
         "character": "ganyu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ganyu/ganyu5.png",
+        "img": "Genshin_Impact/ganyu/ganyu5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -889,7 +889,7 @@
         "name": "ganyu6",
         "character": "ganyu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ganyu/ganyu6.png",
+        "img": "Genshin_Impact/ganyu/ganyu6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -904,7 +904,7 @@
         "name": "gorou1",
         "character": "gorou",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/gorou/gorou1.png",
+        "img": "Genshin_Impact/gorou/gorou1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -919,7 +919,7 @@
         "name": "gorou2",
         "character": "gorou",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/gorou/gorou2.png",
+        "img": "Genshin_Impact/gorou/gorou2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -934,7 +934,7 @@
         "name": "gorou3",
         "character": "gorou",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/gorou/gorou3.png",
+        "img": "Genshin_Impact/gorou/gorou3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -949,7 +949,7 @@
         "name": "gorou4",
         "character": "gorou",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/gorou/gorou4.png",
+        "img": "Genshin_Impact/gorou/gorou4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -964,7 +964,7 @@
         "name": "hutao1",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao1.png",
+        "img": "Genshin_Impact/hutao/hutao1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -979,7 +979,7 @@
         "name": "hutao10",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao10.png",
+        "img": "Genshin_Impact/hutao/hutao10.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -994,7 +994,7 @@
         "name": "hutao11",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao11.png",
+        "img": "Genshin_Impact/hutao/hutao11.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1009,7 +1009,7 @@
         "name": "hutao2",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao2.png",
+        "img": "Genshin_Impact/hutao/hutao2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1024,7 +1024,7 @@
         "name": "hutao3",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao3.png",
+        "img": "Genshin_Impact/hutao/hutao3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1039,7 +1039,7 @@
         "name": "hutao4",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao4.png",
+        "img": "Genshin_Impact/hutao/hutao4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1054,7 +1054,7 @@
         "name": "hutao5",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao5.png",
+        "img": "Genshin_Impact/hutao/hutao5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1069,7 +1069,7 @@
         "name": "hutao6",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao6.png",
+        "img": "Genshin_Impact/hutao/hutao6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1084,7 +1084,7 @@
         "name": "hutao7",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao7.png",
+        "img": "Genshin_Impact/hutao/hutao7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1099,7 +1099,7 @@
         "name": "hutao8",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao8.png",
+        "img": "Genshin_Impact/hutao/hutao8.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1114,7 +1114,7 @@
         "name": "hutao9",
         "character": "hutao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/hutao/hutao9.png",
+        "img": "Genshin_Impact/hutao/hutao9.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1129,7 +1129,7 @@
         "name": "itto1",
         "character": "itto",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/itto/itto1.png",
+        "img": "Genshin_Impact/itto/itto1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1144,7 +1144,7 @@
         "name": "itto2",
         "character": "itto",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/itto/itto2.png",
+        "img": "Genshin_Impact/itto/itto2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1159,7 +1159,7 @@
         "name": "itto3",
         "character": "itto",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/itto/itto3.png",
+        "img": "Genshin_Impact/itto/itto3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1174,7 +1174,7 @@
         "name": "itto4",
         "character": "itto",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/itto/itto4.png",
+        "img": "Genshin_Impact/itto/itto4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1189,7 +1189,7 @@
         "name": "jean1",
         "character": "jean",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jean/jean1.png",
+        "img": "Genshin_Impact/jean/jean1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1204,7 +1204,7 @@
         "name": "jean2",
         "character": "jean",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jean/jean2.png",
+        "img": "Genshin_Impact/jean/jean2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1219,7 +1219,7 @@
         "name": "jean3",
         "character": "jean",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jean/jean3.png",
+        "img": "Genshin_Impact/jean/jean3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1234,7 +1234,7 @@
         "name": "jean4",
         "character": "jean",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jean/jean4.png",
+        "img": "Genshin_Impact/jean/jean4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1249,7 +1249,7 @@
         "name": "jean5",
         "character": "jean",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jean/jean5.png",
+        "img": "Genshin_Impact/jean/jean5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1264,7 +1264,7 @@
         "name": "jean6",
         "character": "jean",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jean/jean6.png",
+        "img": "Genshin_Impact/jean/jean6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1279,7 +1279,7 @@
         "name": "jin1",
         "character": "jin",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jin/jin1.png",
+        "img": "Genshin_Impact/jin/jin1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1294,7 +1294,7 @@
         "name": "jin2",
         "character": "jin",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jin/jin2.png",
+        "img": "Genshin_Impact/jin/jin2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1309,7 +1309,7 @@
         "name": "jin3",
         "character": "jin",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jin/jin3.png",
+        "img": "Genshin_Impact/jin/jin3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1324,7 +1324,7 @@
         "name": "jin4",
         "character": "jin",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/jin/jin4.png",
+        "img": "Genshin_Impact/jin/jin4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1339,7 +1339,7 @@
         "name": "kaeya1",
         "character": "kaeya",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kaeya/kaeya1.png",
+        "img": "Genshin_Impact/kaeya/kaeya1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1354,7 +1354,7 @@
         "name": "kaeya2",
         "character": "kaeya",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kaeya/kaeya2.png",
+        "img": "Genshin_Impact/kaeya/kaeya2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1369,7 +1369,7 @@
         "name": "kazuha1",
         "character": "kazuha",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kazuha/kazuha1.png",
+        "img": "Genshin_Impact/kazuha/kazuha1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1384,7 +1384,7 @@
         "name": "kazuha2",
         "character": "kazuha",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kazuha/kazuha2.png",
+        "img": "Genshin_Impact/kazuha/kazuha2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1399,7 +1399,7 @@
         "name": "kazuha3",
         "character": "kazuha",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kazuha/kazuha3.png",
+        "img": "Genshin_Impact/kazuha/kazuha3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1414,7 +1414,7 @@
         "name": "kazuha4",
         "character": "kazuha",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kazuha/kazuha4.png",
+        "img": "Genshin_Impact/kazuha/kazuha4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1429,7 +1429,7 @@
         "name": "keqing1",
         "character": "keqing",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/keqing/keqing1.png",
+        "img": "Genshin_Impact/keqing/keqing1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1444,7 +1444,7 @@
         "name": "keqing2",
         "character": "keqing",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/keqing/keqing2.png",
+        "img": "Genshin_Impact/keqing/keqing2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1459,7 +1459,7 @@
         "name": "keqing3",
         "character": "keqing",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/keqing/keqing3.png",
+        "img": "Genshin_Impact/keqing/keqing3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1474,7 +1474,7 @@
         "name": "keqing4",
         "character": "keqing",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/keqing/keqing4.png",
+        "img": "Genshin_Impact/keqing/keqing4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1489,7 +1489,7 @@
         "name": "keqing5",
         "character": "keqing",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/keqing/keqing5.png",
+        "img": "Genshin_Impact/keqing/keqing5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1504,7 +1504,7 @@
         "name": "keqing6",
         "character": "keqing",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/keqing/keqing6.png",
+        "img": "Genshin_Impact/keqing/keqing6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1519,7 +1519,7 @@
         "name": "klee1",
         "character": "klee",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/klee/klee1.png",
+        "img": "Genshin_Impact/klee/klee1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1534,7 +1534,7 @@
         "name": "klee2",
         "character": "klee",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/klee/klee2.png",
+        "img": "Genshin_Impact/klee/klee2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1549,7 +1549,7 @@
         "name": "klee3",
         "character": "klee",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/klee/klee3.png",
+        "img": "Genshin_Impact/klee/klee3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1564,7 +1564,7 @@
         "name": "klee4",
         "character": "klee",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/klee/klee4.png",
+        "img": "Genshin_Impact/klee/klee4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1579,7 +1579,7 @@
         "name": "kokomi1",
         "character": "kokomi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kokomi/kokomi1.png",
+        "img": "Genshin_Impact/kokomi/kokomi1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1594,7 +1594,7 @@
         "name": "kokomi2",
         "character": "kokomi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kokomi/kokomi2.png",
+        "img": "Genshin_Impact/kokomi/kokomi2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1609,7 +1609,7 @@
         "name": "kokomi3",
         "character": "kokomi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kokomi/kokomi3.png",
+        "img": "Genshin_Impact/kokomi/kokomi3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1624,7 +1624,7 @@
         "name": "kokomi4",
         "character": "kokomi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kokomi/kokomi4.png",
+        "img": "Genshin_Impact/kokomi/kokomi4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1639,7 +1639,7 @@
         "name": "kokomi5",
         "character": "kokomi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kokomi/kokomi5.png",
+        "img": "Genshin_Impact/kokomi/kokomi5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1654,7 +1654,7 @@
         "name": "kokomi6",
         "character": "kokomi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kokomi/kokomi6.png",
+        "img": "Genshin_Impact/kokomi/kokomi6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1669,7 +1669,7 @@
         "name": "kokomi7",
         "character": "kokomi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/kokomi/kokomi7.png",
+        "img": "Genshin_Impact/kokomi/kokomi7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1684,7 +1684,7 @@
         "name": "lisa1",
         "character": "lisa",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/lisa/lisa1.png",
+        "img": "Genshin_Impact/lisa/lisa1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1699,7 +1699,7 @@
         "name": "lisa2",
         "character": "lisa",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/lisa/lisa2.png",
+        "img": "Genshin_Impact/lisa/lisa2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1714,7 +1714,7 @@
         "name": "lumine1",
         "character": "lumine",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/lumine/lumine1.png",
+        "img": "Genshin_Impact/lumine/lumine1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1729,7 +1729,7 @@
         "name": "lumine2",
         "character": "lumine",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/lumine/lumine2.png",
+        "img": "Genshin_Impact/lumine/lumine2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1744,7 +1744,7 @@
         "name": "mona1",
         "character": "mona",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/mona/mona1.png",
+        "img": "Genshin_Impact/mona/mona1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1759,7 +1759,7 @@
         "name": "mona2",
         "character": "mona",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/mona/mona2.png",
+        "img": "Genshin_Impact/mona/mona2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1774,7 +1774,7 @@
         "name": "mona3",
         "character": "mona",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/mona/mona3.png",
+        "img": "Genshin_Impact/mona/mona3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1789,7 +1789,7 @@
         "name": "mona4",
         "character": "mona",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/mona/mona4.png",
+        "img": "Genshin_Impact/mona/mona4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1804,7 +1804,7 @@
         "name": "ningguang1",
         "character": "ningguang",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ningguang/ningguang1.png",
+        "img": "Genshin_Impact/ningguang/ningguang1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1819,7 +1819,7 @@
         "name": "ningguang2",
         "character": "ningguang",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/ningguang/ningguang2.png",
+        "img": "Genshin_Impact/ningguang/ningguang2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1834,7 +1834,7 @@
         "name": "paimon1",
         "character": "paimon",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/paimon/paimon1.png",
+        "img": "Genshin_Impact/paimon/paimon1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1849,7 +1849,7 @@
         "name": "paimon2",
         "character": "paimon",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/paimon/paimon2.png",
+        "img": "Genshin_Impact/paimon/paimon2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1864,7 +1864,7 @@
         "name": "paimon3",
         "character": "paimon",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/paimon/paimon3.png",
+        "img": "Genshin_Impact/paimon/paimon3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1879,7 +1879,7 @@
         "name": "paimon4",
         "character": "paimon",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/paimon/paimon4.png",
+        "img": "Genshin_Impact/paimon/paimon4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1894,7 +1894,7 @@
         "name": "paimon5",
         "character": "paimon",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/paimon/paimon5.png",
+        "img": "Genshin_Impact/paimon/paimon5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1909,7 +1909,7 @@
         "name": "paimon6",
         "character": "paimon",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/paimon/paimon6.png",
+        "img": "Genshin_Impact/paimon/paimon6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1924,7 +1924,7 @@
         "name": "qiqi1",
         "character": "qiqi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/qiqi/qiqi1.png",
+        "img": "Genshin_Impact/qiqi/qiqi1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1939,7 +1939,7 @@
         "name": "qiqi2",
         "character": "qiqi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/qiqi/qiqi2.png",
+        "img": "Genshin_Impact/qiqi/qiqi2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1954,7 +1954,7 @@
         "name": "qiqi3",
         "character": "qiqi",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/qiqi/qiqi3.png",
+        "img": "Genshin_Impact/qiqi/qiqi3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1969,7 +1969,7 @@
         "name": "raiden1",
         "character": "raiden",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/raiden/raiden1.png",
+        "img": "Genshin_Impact/raiden/raiden1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1984,7 +1984,7 @@
         "name": "raiden2",
         "character": "raiden",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/raiden/raiden2.png",
+        "img": "Genshin_Impact/raiden/raiden2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -1999,7 +1999,7 @@
         "name": "raiden3",
         "character": "raiden",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/raiden/raiden3.png",
+        "img": "Genshin_Impact/raiden/raiden3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2014,7 +2014,7 @@
         "name": "raiden4",
         "character": "raiden",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/raiden/raiden4.png",
+        "img": "Genshin_Impact/raiden/raiden4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2029,7 +2029,7 @@
         "name": "raiden5",
         "character": "raiden",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/raiden/raiden5.png",
+        "img": "Genshin_Impact/raiden/raiden5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2044,7 +2044,7 @@
         "name": "raiden6",
         "character": "raiden",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/raiden/raiden6.png",
+        "img": "Genshin_Impact/raiden/raiden6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2059,7 +2059,7 @@
         "name": "raiden7",
         "character": "raiden",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/raiden/raiden7.png",
+        "img": "Genshin_Impact/raiden/raiden7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2074,7 +2074,7 @@
         "name": "raiden8",
         "character": "raiden",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/raiden/raiden8.png",
+        "img": "Genshin_Impact/raiden/raiden8.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2089,7 +2089,7 @@
         "name": "rosaria1",
         "character": "rosaria",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/rosaria/rosaria1.png",
+        "img": "Genshin_Impact/rosaria/rosaria1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2104,7 +2104,7 @@
         "name": "rosaria2",
         "character": "rosaria",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/rosaria/rosaria2.png",
+        "img": "Genshin_Impact/rosaria/rosaria2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2119,7 +2119,7 @@
         "name": "rosaria3",
         "character": "rosaria",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/rosaria/rosaria3.png",
+        "img": "Genshin_Impact/rosaria/rosaria3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2134,7 +2134,7 @@
         "name": "rosaria4",
         "character": "rosaria",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/rosaria/rosaria4.png",
+        "img": "Genshin_Impact/rosaria/rosaria4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2149,7 +2149,7 @@
         "name": "samurai1",
         "character": "samurai",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/samurai/samurai1.png",
+        "img": "Genshin_Impact/samurai/samurai1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2164,7 +2164,7 @@
         "name": "samurai2",
         "character": "samurai",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/samurai/samurai2.png",
+        "img": "Genshin_Impact/samurai/samurai2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2179,7 +2179,7 @@
         "name": "sara1",
         "character": "sara",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sara/sara1.png",
+        "img": "Genshin_Impact/sara/sara1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2194,7 +2194,7 @@
         "name": "sara2",
         "character": "sara",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sara/sara2.png",
+        "img": "Genshin_Impact/sara/sara2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2209,7 +2209,7 @@
         "name": "sara3",
         "character": "sara",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sara/sara3.png",
+        "img": "Genshin_Impact/sara/sara3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2224,7 +2224,7 @@
         "name": "sara4",
         "character": "sara",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sara/sara4.png",
+        "img": "Genshin_Impact/sara/sara4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2239,7 +2239,7 @@
         "name": "sayu1",
         "character": "sayu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sayu/sayu1.png",
+        "img": "Genshin_Impact/sayu/sayu1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2254,7 +2254,7 @@
         "name": "sayu2",
         "character": "sayu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sayu/sayu2.png",
+        "img": "Genshin_Impact/sayu/sayu2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2269,7 +2269,7 @@
         "name": "sayu3",
         "character": "sayu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sayu/sayu3.png",
+        "img": "Genshin_Impact/sayu/sayu3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2284,7 +2284,7 @@
         "name": "sayu4",
         "character": "sayu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sayu/sayu4.png",
+        "img": "Genshin_Impact/sayu/sayu4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2299,7 +2299,7 @@
         "name": "shenhe1",
         "character": "shenhe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/shenhe/shenhe1.png",
+        "img": "Genshin_Impact/shenhe/shenhe1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2314,7 +2314,7 @@
         "name": "shenhe2",
         "character": "shenhe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/shenhe/shenhe2.png",
+        "img": "Genshin_Impact/shenhe/shenhe2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2329,7 +2329,7 @@
         "name": "shenhe3",
         "character": "shenhe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/shenhe/shenhe3.png",
+        "img": "Genshin_Impact/shenhe/shenhe3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2344,7 +2344,7 @@
         "name": "shenhe4",
         "character": "shenhe",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/shenhe/shenhe4.png",
+        "img": "Genshin_Impact/shenhe/shenhe4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2359,7 +2359,7 @@
         "name": "sucrose1",
         "character": "sucrose",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sucrose/sucrose1.png",
+        "img": "Genshin_Impact/sucrose/sucrose1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2374,7 +2374,7 @@
         "name": "sucrose2",
         "character": "sucrose",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sucrose/sucrose2.png",
+        "img": "Genshin_Impact/sucrose/sucrose2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2389,7 +2389,7 @@
         "name": "sucrose3",
         "character": "sucrose",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sucrose/sucrose3.png",
+        "img": "Genshin_Impact/sucrose/sucrose3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2404,7 +2404,7 @@
         "name": "sucrose4",
         "character": "sucrose",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sucrose/sucrose4.png",
+        "img": "Genshin_Impact/sucrose/sucrose4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2419,7 +2419,7 @@
         "name": "sucrose5",
         "character": "sucrose",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sucrose/sucrose5.png",
+        "img": "Genshin_Impact/sucrose/sucrose5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2434,7 +2434,7 @@
         "name": "sucrose6",
         "character": "sucrose",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/sucrose/sucrose6.png",
+        "img": "Genshin_Impact/sucrose/sucrose6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2449,7 +2449,7 @@
         "name": "tanuki1",
         "character": "tanuki",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/tanuki/tanuki1.png",
+        "img": "Genshin_Impact/tanuki/tanuki1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2464,7 +2464,7 @@
         "name": "tanuki2",
         "character": "tanuki",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/tanuki/tanuki2.png",
+        "img": "Genshin_Impact/tanuki/tanuki2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2479,7 +2479,7 @@
         "name": "thoma1",
         "character": "thoma",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/thoma/thoma1.png",
+        "img": "Genshin_Impact/thoma/thoma1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2494,7 +2494,7 @@
         "name": "thoma2",
         "character": "thoma",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/thoma/thoma2.png",
+        "img": "Genshin_Impact/thoma/thoma2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2509,7 +2509,7 @@
         "name": "thoma3",
         "character": "thoma",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/thoma/thoma3.png",
+        "img": "Genshin_Impact/thoma/thoma3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2524,7 +2524,7 @@
         "name": "thoma4",
         "character": "thoma",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/thoma/thoma4.png",
+        "img": "Genshin_Impact/thoma/thoma4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2539,7 +2539,7 @@
         "name": "thoma5",
         "character": "thoma",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/thoma/thoma5.png",
+        "img": "Genshin_Impact/thoma/thoma5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2554,7 +2554,7 @@
         "name": "thoma6",
         "character": "thoma",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/thoma/thoma6.png",
+        "img": "Genshin_Impact/thoma/thoma6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2569,7 +2569,7 @@
         "name": "venti1",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti1.png",
+        "img": "Genshin_Impact/venti/venti1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2584,7 +2584,7 @@
         "name": "venti2",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti2.png",
+        "img": "Genshin_Impact/venti/venti2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2599,7 +2599,7 @@
         "name": "venti3",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti3.png",
+        "img": "Genshin_Impact/venti/venti3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2614,7 +2614,7 @@
         "name": "venti4",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti4.png",
+        "img": "Genshin_Impact/venti/venti4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2629,7 +2629,7 @@
         "name": "venti5",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti5.png",
+        "img": "Genshin_Impact/venti/venti5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2644,7 +2644,7 @@
         "name": "venti6",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti6.png",
+        "img": "Genshin_Impact/venti/venti6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2659,7 +2659,7 @@
         "name": "venti7",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti7.png",
+        "img": "Genshin_Impact/venti/venti7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2674,7 +2674,7 @@
         "name": "venti8",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti8.png",
+        "img": "Genshin_Impact/venti/venti8.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2689,7 +2689,7 @@
         "name": "venti9",
         "character": "venti",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/venti/venti9.png",
+        "img": "Genshin_Impact/venti/venti9.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2704,7 +2704,7 @@
         "name": "vishap1",
         "character": "vishap",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/vishap/vishap1.png",
+        "img": "Genshin_Impact/vishap/vishap1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2719,7 +2719,7 @@
         "name": "vishap2",
         "character": "vishap",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/vishap/vishap2.png",
+        "img": "Genshin_Impact/vishap/vishap2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2734,7 +2734,7 @@
         "name": "vishap3",
         "character": "vishap",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/vishap/vishap3.png",
+        "img": "Genshin_Impact/vishap/vishap3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2749,7 +2749,7 @@
         "name": "vishap4",
         "character": "vishap",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/vishap/vishap4.png",
+        "img": "Genshin_Impact/vishap/vishap4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2764,7 +2764,7 @@
         "name": "xiangling1",
         "character": "xiangling",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiangling/xiangling1.png",
+        "img": "Genshin_Impact/xiangling/xiangling1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2779,7 +2779,7 @@
         "name": "xiangling2",
         "character": "xiangling",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiangling/xiangling2.png",
+        "img": "Genshin_Impact/xiangling/xiangling2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2794,7 +2794,7 @@
         "name": "xiao1",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao1.png",
+        "img": "Genshin_Impact/xiao/xiao1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2809,7 +2809,7 @@
         "name": "xiao10",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao10.png",
+        "img": "Genshin_Impact/xiao/xiao10.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2824,7 +2824,7 @@
         "name": "xiao2",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao2.png",
+        "img": "Genshin_Impact/xiao/xiao2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2839,7 +2839,7 @@
         "name": "xiao3",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao3.png",
+        "img": "Genshin_Impact/xiao/xiao3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2854,7 +2854,7 @@
         "name": "xiao4",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao4.png",
+        "img": "Genshin_Impact/xiao/xiao4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2869,7 +2869,7 @@
         "name": "xiao5",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao5.png",
+        "img": "Genshin_Impact/xiao/xiao5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2884,7 +2884,7 @@
         "name": "xiao6",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao6.png",
+        "img": "Genshin_Impact/xiao/xiao6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2899,7 +2899,7 @@
         "name": "xiao7",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao7.png",
+        "img": "Genshin_Impact/xiao/xiao7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2914,7 +2914,7 @@
         "name": "xiao8",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao8.png",
+        "img": "Genshin_Impact/xiao/xiao8.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2929,7 +2929,7 @@
         "name": "xiao9",
         "character": "xiao",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xiao/xiao9.png",
+        "img": "Genshin_Impact/xiao/xiao9.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2944,7 +2944,7 @@
         "name": "xingqiu1",
         "character": "xingqiu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xingqiu/xingqiu1.png",
+        "img": "Genshin_Impact/xingqiu/xingqiu1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2959,7 +2959,7 @@
         "name": "xingqiu2",
         "character": "xingqiu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xingqiu/xingqiu2.png",
+        "img": "Genshin_Impact/xingqiu/xingqiu2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2974,7 +2974,7 @@
         "name": "xingqiu3",
         "character": "xingqiu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xingqiu/xingqiu3.png",
+        "img": "Genshin_Impact/xingqiu/xingqiu3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -2989,7 +2989,7 @@
         "name": "xingqiu4",
         "character": "xingqiu",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xingqiu/xingqiu4.png",
+        "img": "Genshin_Impact/xingqiu/xingqiu4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3004,7 +3004,7 @@
         "name": "xinyan1",
         "character": "xinyan",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xinyan/xinyan1.png",
+        "img": "Genshin_Impact/xinyan/xinyan1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3019,7 +3019,7 @@
         "name": "xinyan2",
         "character": "xinyan",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xinyan/xinyan2.png",
+        "img": "Genshin_Impact/xinyan/xinyan2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3034,7 +3034,7 @@
         "name": "xinyan3",
         "character": "xinyan",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xinyan/xinyan3.png",
+        "img": "Genshin_Impact/xinyan/xinyan3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3049,7 +3049,7 @@
         "name": "xinyan4",
         "character": "xinyan",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xinyan/xinyan4.png",
+        "img": "Genshin_Impact/xinyan/xinyan4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3064,7 +3064,7 @@
         "name": "xinyan5",
         "character": "xinyan",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/xinyan/xinyan5.png",
+        "img": "Genshin_Impact/xinyan/xinyan5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3079,7 +3079,7 @@
         "name": "yae1",
         "character": "yae",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yae/yae1.png",
+        "img": "Genshin_Impact/yae/yae1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3094,7 +3094,7 @@
         "name": "yae2",
         "character": "yae",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yae/yae2.png",
+        "img": "Genshin_Impact/yae/yae2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3109,7 +3109,7 @@
         "name": "yae3",
         "character": "yae",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yae/yae3.png",
+        "img": "Genshin_Impact/yae/yae3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3124,7 +3124,7 @@
         "name": "yae4",
         "character": "yae",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yae/yae4.png",
+        "img": "Genshin_Impact/yae/yae4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3139,7 +3139,7 @@
         "name": "yanfei1",
         "character": "yanfei",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yanfei/yanfei1.png",
+        "img": "Genshin_Impact/yanfei/yanfei1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3154,7 +3154,7 @@
         "name": "yanfei2",
         "character": "yanfei",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yanfei/yanfei2.png",
+        "img": "Genshin_Impact/yanfei/yanfei2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3169,7 +3169,7 @@
         "name": "yanfei3",
         "character": "yanfei",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yanfei/yanfei3.png",
+        "img": "Genshin_Impact/yanfei/yanfei3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3184,7 +3184,7 @@
         "name": "yanfei4",
         "character": "yanfei",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yanfei/yanfei4.png",
+        "img": "Genshin_Impact/yanfei/yanfei4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3199,7 +3199,7 @@
         "name": "yoimiya1",
         "character": "yoimiya",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yoimiya/yoimiya1.png",
+        "img": "Genshin_Impact/yoimiya/yoimiya1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3214,7 +3214,7 @@
         "name": "yoimiya2",
         "character": "yoimiya",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yoimiya/yoimiya2.png",
+        "img": "Genshin_Impact/yoimiya/yoimiya2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3229,7 +3229,7 @@
         "name": "yoimiya3",
         "character": "yoimiya",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yoimiya/yoimiya3.png",
+        "img": "Genshin_Impact/yoimiya/yoimiya3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3244,7 +3244,7 @@
         "name": "yoimiya4",
         "character": "yoimiya",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/yoimiya/yoimiya4.png",
+        "img": "Genshin_Impact/yoimiya/yoimiya4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3259,7 +3259,7 @@
         "name": "zhongli1",
         "character": "zhongli",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/zhongli/zhongli1.png",
+        "img": "Genshin_Impact/zhongli/zhongli1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3274,7 +3274,7 @@
         "name": "zhongli2",
         "character": "zhongli",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/zhongli/zhongli2.png",
+        "img": "Genshin_Impact/zhongli/zhongli2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3289,7 +3289,7 @@
         "name": "zhongli3",
         "character": "zhongli",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/zhongli/zhongli3.png",
+        "img": "Genshin_Impact/zhongli/zhongli3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3304,7 +3304,7 @@
         "name": "zhongli4",
         "character": "zhongli",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/zhongli/zhongli4.png",
+        "img": "Genshin_Impact/zhongli/zhongli4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3319,7 +3319,7 @@
         "name": "zhongli5",
         "character": "zhongli",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/zhongli/zhongli5.png",
+        "img": "Genshin_Impact/zhongli/zhongli5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3334,7 +3334,7 @@
         "name": "zhongli6",
         "character": "zhongli",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/zhongli/zhongli6.png",
+        "img": "Genshin_Impact/zhongli/zhongli6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -3349,7 +3349,7 @@
         "name": "zhongli7",
         "character": "zhongli",
         "tag": "Genshin Impact",
-        "img": "GenshinImpact/zhongli/zhongli7.png",
+        "img": "Genshin_Impact/zhongli/zhongli7.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
