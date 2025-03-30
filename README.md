@@ -7,6 +7,7 @@
 - **Genshin Impact**
 - **Honkai: Star Rail**
 - **Zenless Zone Zero**
+- **Arknights**
 - **Wuthering Waves**
 - **And more!**
 
@@ -21,12 +22,13 @@
 
 ### Game Companies
 
-Special thanks to miHoYo and Kuro for creating the games featured in this project.
+Special thanks to miHoYo, HYPERGRYPH and Kuro for creating the games featured in this project.
 
 ### Sticker Provider
 
 The downloadable sticker resources were edited and provided by the following:
 - [Lynnsa](https://www.hoyolab.com/article/4303677) from HoYoLAB
+- [Al_9DQ](https://getstickerpack.com/publisher/alejandro-toro-3) from Sticker Maker
 
 ## Contributing
 

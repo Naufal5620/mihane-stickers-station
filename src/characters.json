@@ -8266,6 +8266,66 @@
     },
     {
         "id": 552,
+        "name": "aalto1",
+        "character": "aalto",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/aalto/aalto1.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 553,
+        "name": "aalto2",
+        "character": "aalto",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/aalto/aalto2.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 554,
+        "name": "aalto3",
+        "character": "aalto",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/aalto/aalto3.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 555,
+        "name": "aalto4",
+        "character": "aalto",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/aalto/aalto4.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 556,
         "name": "baizhi1",
         "character": "baizhi",
         "tag": "Wuthering Waves",
@@ -8280,7 +8340,7 @@
         }
     },
     {
-        "id": 553,
+        "id": 557,
         "name": "baizhi2",
         "character": "baizhi",
         "tag": "Wuthering Waves",
@@ -8295,7 +8355,7 @@
         }
     },
     {
-        "id": 554,
+        "id": 558,
         "name": "baizhi3",
         "character": "baizhi",
         "tag": "Wuthering Waves",
@@ -8310,7 +8370,7 @@
         }
     },
     {
-        "id": 555,
+        "id": 559,
         "name": "baizhi4",
         "character": "baizhi",
         "tag": "Wuthering Waves",
@@ -8325,7 +8385,7 @@
         }
     },
     {
-        "id": 556,
+        "id": 560,
         "name": "baizhi5",
         "character": "baizhi",
         "tag": "Wuthering Waves",
@@ -8340,7 +8400,7 @@
         }
     },
     {
-        "id": 557,
+        "id": 561,
         "name": "baizhi6",
         "character": "baizhi",
         "tag": "Wuthering Waves",
@@ -8355,7 +8415,7 @@
         }
     },
     {
-        "id": 558,
+        "id": 562,
         "name": "baizhi7",
         "character": "baizhi",
         "tag": "Wuthering Waves",
@@ -8370,7 +8430,7 @@
         }
     },
     {
-        "id": 559,
+        "id": 563,
         "name": "baizhi8",
         "character": "baizhi",
         "tag": "Wuthering Waves",
@@ -8385,7 +8445,7 @@
         }
     },
     {
-        "id": 560,
+        "id": 564,
         "name": "chixia1",
         "character": "chixia",
         "tag": "Wuthering Waves",
@@ -8400,7 +8460,7 @@
         }
     },
     {
-        "id": 561,
+        "id": 565,
         "name": "chixia2",
         "character": "chixia",
         "tag": "Wuthering Waves",
@@ -8415,7 +8475,7 @@
         }
     },
     {
-        "id": 562,
+        "id": 566,
         "name": "chixia3",
         "character": "chixia",
         "tag": "Wuthering Waves",
@@ -8430,7 +8490,7 @@
         }
     },
     {
-        "id": 563,
+        "id": 567,
         "name": "chixia4",
         "character": "chixia",
         "tag": "Wuthering Waves",
@@ -8445,7 +8505,7 @@
         }
     },
     {
-        "id": 564,
+        "id": 568,
         "name": "chixia5",
         "character": "chixia",
         "tag": "Wuthering Waves",
@@ -8460,7 +8520,7 @@
         }
     },
     {
-        "id": 565,
+        "id": 569,
         "name": "chixia6",
         "character": "chixia",
         "tag": "Wuthering Waves",
@@ -8475,7 +8535,7 @@
         }
     },
     {
-        "id": 566,
+        "id": 570,
         "name": "chixia7",
         "character": "chixia",
         "tag": "Wuthering Waves",
@@ -8490,7 +8550,7 @@
         }
     },
     {
-        "id": 567,
+        "id": 571,
         "name": "chixia8",
         "character": "chixia",
         "tag": "Wuthering Waves",
@@ -8505,7 +8565,427 @@
         }
     },
     {
-        "id": 568,
+        "id": 572,
+        "name": "danjin1",
+        "character": "danjin",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/danjin/danjin1.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 573,
+        "name": "danjin2",
+        "character": "danjin",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/danjin/danjin2.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 574,
+        "name": "danjin3",
+        "character": "danjin",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/danjin/danjin3.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 575,
+        "name": "danjin4",
+        "character": "danjin",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/danjin/danjin4.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 576,
+        "name": "encore1",
+        "character": "encore",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/encore/encore1.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 577,
+        "name": "encore2",
+        "character": "encore",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/encore/encore2.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 578,
+        "name": "encore3",
+        "character": "encore",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/encore/encore3.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 579,
+        "name": "encore4",
+        "character": "encore",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/encore/encore4.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 580,
+        "name": "jiyan1",
+        "character": "jiyan",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/jiyan/jiyan1.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 581,
+        "name": "jiyan2",
+        "character": "jiyan",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/jiyan/jiyan2.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 582,
+        "name": "jiyan3",
+        "character": "jiyan",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/jiyan/jiyan3.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 583,
+        "name": "jiyan4",
+        "character": "jiyan",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/jiyan/jiyan4.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 584,
+        "name": "mortefi1",
+        "character": "mortefi",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/mortefi/mortefi1.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 585,
+        "name": "mortefi2",
+        "character": "mortefi",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/mortefi/mortefi2.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 586,
+        "name": "mortefi3",
+        "character": "mortefi",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/mortefi/mortefi3.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 587,
+        "name": "mortefi4",
+        "character": "mortefi",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/mortefi/mortefi4.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 588,
+        "name": "rover_female1",
+        "character": "rover",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/rover/rover_female1.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 589,
+        "name": "rover_female2",
+        "character": "rover",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/rover/rover_female2.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 590,
+        "name": "rover_female3",
+        "character": "rover",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/rover/rover_female3.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 591,
+        "name": "rover_female4",
+        "character": "rover",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/rover/rover_female4.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 592,
+        "name": "rover_male1",
+        "character": "rover",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/rover/rover_male1.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 593,
+        "name": "rover_male2",
+        "character": "rover",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/rover/rover_male2.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 594,
+        "name": "rover_male3",
+        "character": "rover",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/rover/rover_male3.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 595,
+        "name": "rover_male4",
+        "character": "rover",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/rover/rover_male4.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 596,
+        "name": "sanhua1",
+        "character": "sanhua",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/sanhua/sanhua1.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 597,
+        "name": "sanhua2",
+        "character": "sanhua",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/sanhua/sanhua2.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 598,
+        "name": "sanhua3",
+        "character": "sanhua",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/sanhua/sanhua3.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 599,
+        "name": "sanhua4",
+        "character": "sanhua",
+        "tag": "Wuthering Waves",
+        "img": "WuWa/sanhua/sanhua4.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "text": "MSS",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": 600,
         "name": "yangyang1",
         "character": "yangyang",
         "tag": "Wuthering Waves",
@@ -8520,7 +9000,7 @@
         }
     },
     {
-        "id": 569,
+        "id": 601,
         "name": "yangyang2",
         "character": "yangyang",
         "tag": "Wuthering Waves",
@@ -8535,7 +9015,7 @@
         }
     },
     {
-        "id": 570,
+        "id": 602,
         "name": "yangyang3",
         "character": "yangyang",
         "tag": "Wuthering Waves",
@@ -8550,7 +9030,7 @@
         }
     },
     {
-        "id": 571,
+        "id": 603,
         "name": "yangyang4",
         "character": "yangyang",
         "tag": "Wuthering Waves",
@@ -8565,7 +9045,7 @@
         }
     },
     {
-        "id": 572,
+        "id": 604,
         "name": "yangyang5",
         "character": "yangyang",
         "tag": "Wuthering Waves",
@@ -8580,7 +9060,7 @@
         }
     },
     {
-        "id": 573,
+        "id": 605,
         "name": "yangyang6",
         "character": "yangyang",
         "tag": "Wuthering Waves",
@@ -8595,7 +9075,7 @@
         }
     },
     {
-        "id": 574,
+        "id": 606,
         "name": "yangyang7",
         "character": "yangyang",
         "tag": "Wuthering Waves",
@@ -8610,7 +9090,7 @@
         }
     },
     {
-        "id": 575,
+        "id": 607,
         "name": "yangyang8",
         "character": "yangyang",
         "tag": "Wuthering Waves",

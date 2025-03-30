@@ -128,6 +128,7 @@ export default function Picker({ setCharacter }) {
             <ToggleButton value="Genshin Impact">Genshin Impact</ToggleButton>
             <ToggleButton value="Honkai: Star Rail">Honkai: Star Rail</ToggleButton>
             <ToggleButton value="Zenless Zone Zero">Zenless Zone Zero</ToggleButton>
+            <ToggleButton value="Arknights">Arknights</ToggleButton>
             <ToggleButton value="Wuthering Waves">Wuthering Waves</ToggleButton>
             <ToggleButton value="Others">Others</ToggleButton>
           </ToggleButtonGroup>
