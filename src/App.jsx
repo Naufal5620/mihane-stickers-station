@@ -58,7 +58,7 @@ function App() {
     setLoaded(false);
   }, [character]);
 
-  img.src = "img/" + characters[character].img;
+  img.src = "img/" + characters[character].img; // Add mihane-stickers-station/ under dev mode, delete before deployment
 
   img.onload = () => {
     setLoaded(true);
