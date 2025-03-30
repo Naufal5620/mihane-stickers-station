@@ -39,16 +39,19 @@ export default function Info({ open, handleClose }) {
             </Typography>
             <List>
               <ListItem>
-                <SmallListItemText primary="v0.0.5 - Update Wuthering Waves to Vol 3, added tag for Arknights." />
+                <SmallListItemText primary="v0.0.6 - Updated Honkai: Star Rail to Pom-Pom Gallery Set 18." />
               </ListItem>
               <ListItem>
-                <SmallListItemText primary="v0.0.4 - Update Wuthering Waves to Vol 1." />
+                <SmallListItemText primary="v0.0.5 - Updated Wuthering Waves to Vol 3, added tag for Arknights." />
               </ListItem>
               <ListItem>
-                <SmallListItemText primary="v0.0.3 - Update Genshin Impact - Paimon's Paintings to Set 35." />
+                <SmallListItemText primary="v0.0.4 - Updated Wuthering Waves to Vol 1." />
               </ListItem>
               <ListItem>
-                <SmallListItemText primary="v0.0.2 - Update Genshin Impact - Paimon's Paintings to Set 14." />
+                <SmallListItemText primary="v0.0.3 - Updated Genshin Impact - Paimon's Paintings to Set 35." />
+              </ListItem>
+              <ListItem>
+                <SmallListItemText primary="v0.0.2 - Updated Genshin Impact - Paimon's Paintings to Set 14." />
               </ListItem>
               <ListItem>
                 <SmallListItemText primary="v0.0.1 - Added Game Filtering Tag." />

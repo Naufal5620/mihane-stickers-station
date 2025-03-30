@@ -27,8 +27,9 @@ Special thanks to miHoYo, HYPERGRYPH and Kuro for creating the games featured in
 ### Sticker Provider
 
 The downloadable sticker resources were edited and provided by the following:
-- [Lynnsa](https://www.hoyolab.com/article/4303677) from HoYoLAB
-- [Al_9DQ](https://getstickerpack.com/publisher/alejandro-toro-3) from Sticker Maker
+- miHoYo games stickers from HoYoLAB by [Lynnsa](https://www.hoyolab.com/accountCenter/postList?id=17138284)
+- [Arknights stickers](https://www.bilibili.com/opus/774663533217447985) from bilibili by 葫芦涂 (TBD)
+- Wuthering Waves stickers from Sticker Maker by [Al_9DQ](https://getstickerpack.com/publisher/alejandro-toro-3)
 
 ## Contributing
 
