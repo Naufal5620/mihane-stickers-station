@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mihane-stickers-station/static/css/main.06982b76.css",
-    "main.js": "/mihane-stickers-station/static/js/main.b1f2aefb.js",
+    "main.js": "/mihane-stickers-station/static/js/main.390f3838.js",
     "static/media/YurukaStd.woff2": "/mihane-stickers-station/static/media/YurukaStd.e4589185c34a94a462b4.woff2",
     "index.html": "/mihane-stickers-station/index.html",
     "main.06982b76.css.map": "/mihane-stickers-station/static/css/main.06982b76.css.map",
-    "main.b1f2aefb.js.map": "/mihane-stickers-station/static/js/main.b1f2aefb.js.map"
+    "main.390f3838.js.map": "/mihane-stickers-station/static/js/main.390f3838.js.map"
   },
   "entrypoints": [
     "static/css/main.06982b76.css",
-    "static/js/main.b1f2aefb.js"
+    "static/js/main.390f3838.js"
   ]
 }
