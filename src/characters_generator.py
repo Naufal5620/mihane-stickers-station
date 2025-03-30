@@ -25,7 +25,7 @@ default_text = {
 
 # List to store sticker data
 stickers = []
-id_counter = 1  # Start ID from 1
+id_counter = 0  # Start ID from 0
 
 # Traverse directories
 for game_name in os.listdir(base_dir):

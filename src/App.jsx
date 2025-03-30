@@ -33,7 +33,8 @@ function App() {
     setInfoOpen(false);
   };
 
-  const [character, setCharacter] = useState(287); // This is the img id - 1
+  // Initial sticker id that will appear on the website
+  const [character, setCharacter] = useState(287);
   const [text, setText] = useState(characters[character].defaultText.text);
   const [position, setPosition] = useState({
     x: characters[character].defaultText.x,
@@ -58,7 +59,8 @@ function App() {
     setLoaded(false);
   }, [character]);
 
-  img.src = "img/" + characters[character].img; // Add mihane-stickers-station/ under dev mode, delete before deployment
+  // Set to mihane-stickers-station/img/ under dev mode, change back to img/ before deployment
+  img.src = "img/" + characters[character].img;
 
   img.onload = () => {
     setLoaded(true);
