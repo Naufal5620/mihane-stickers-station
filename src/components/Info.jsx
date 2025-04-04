@@ -39,6 +39,9 @@ export default function Info({ open, handleClose }) {
             </Typography>
             <List>
               <ListItem>
+                <SmallListItemText primary="v0.0.7 - Updated Genshin Impact - Paimon's Paintings to Set 40." />
+              </ListItem>
+              <ListItem>
                 <SmallListItemText primary="v0.0.6 - Updated Honkai: Star Rail to Pom-Pom Gallery Set 18." />
               </ListItem>
               <ListItem>

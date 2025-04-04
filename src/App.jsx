@@ -34,7 +34,7 @@ function App() {
   };
 
   // Initial sticker id that will appear on the website
-  const [character, setCharacter] = useState(287);
+  const [character, setCharacter] = useState(316);
   const [text, setText] = useState(characters[character].defaultText.text);
   const [position, setPosition] = useState({
     x: characters[character].defaultText.x,
